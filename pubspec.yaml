@@ -1,6 +1,6 @@
 name: xcfkit
 description: A pure Dart reader and writer for layered GIMP XCF documents, pixels, masks, and metadata.
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/focale-editor/xcfkit
 repository: https://github.com/focale-editor/xcfkit
 
