@@ -1,6 +1,8 @@
 test/
 doc/
 docs/
+build/
+tool/
 AGENTS.md
 analysis_options.yaml
 xcfkit.iml
