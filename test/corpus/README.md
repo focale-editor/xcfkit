@@ -130,4 +130,5 @@ See its README for detailed limitations and independent reference provenance.
 File I/O tests include a real sparse file with structures past the 4 GiB boundary.
 `tool/large_file_smoke.dart` generates and transcodes a 1 GiB tiled raster under a
 1 MiB per-read limit, without holding full decoded or encoded files in memory.
-The measurements and runtime coverage are documented in [validation](../../docs/VALIDATION.md).
+See [large-file validation](../../docs/XCF.md#corpus-validation) for commands and
+coverage boundaries.
