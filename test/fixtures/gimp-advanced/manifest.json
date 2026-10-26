@@ -1,0 +1,72 @@
+{
+  "generator": "GIMP 3.2.2, Ubuntu 26.04",
+  "oracle": "GIMP 3.3.1 a39a8a7e824fb11810baeeebd6c4edd03865768f x86_64",
+  "date": "2026-10-26",
+  "files": [
+    {
+      "path": "README.md",
+      "size": 3082,
+      "sha256": "646e282c1b6c8be0ce6583edcff20604514c34dc7fa39ef747f7975d84d1091d"
+    },
+    {
+      "path": "curves-edited.xcf",
+      "size": 34364,
+      "sha256": "ea86117a92be3d3bd6f26ba4626df8f87ec0cf4cfd8e821b4755f33d1ca18885"
+    },
+    {
+      "path": "curves.xcf",
+      "size": 34368,
+      "sha256": "241748e8a57a36b3191df81c9b433f262458ce14bacbde827a2bcc6b63461bfa"
+    },
+    {
+      "path": "document-metadata.xcf",
+      "size": 7814,
+      "sha256": "63bee9119c1f657d4c2ace77688b88045290201a8875385fe28cff172766a16b"
+    },
+    {
+      "path": "document-metadata.xcf.bz2",
+      "size": 1245,
+      "sha256": "94a13d1afeabe1d5badf9aa1ec9d9ce1843953d88f3230da4f3d72d929c2e1af"
+    },
+    {
+      "path": "document-metadata.xcf.gz",
+      "size": 992,
+      "sha256": "fe267e54ee70b4ba8e90dec05de68cc8fec795e903c08283aa19cac79a9bbd29"
+    },
+    {
+      "path": "document-metadata.xcf.xz",
+      "size": 932,
+      "sha256": "d657ebeffda74a6d801f37a0bc9c08e39c2a70187ddf88ac29f87ac2f586c172"
+    },
+    {
+      "path": "edits-reference.json",
+      "size": 4584,
+      "sha256": "4594556e55d7d5c55bab887c7e12840b71d81763e2716eb103210d4cf24a8bc1"
+    },
+    {
+      "path": "reference.json",
+      "size": 15680,
+      "sha256": "5d61b941b9932cf3c04a5b3994930aa306ba99ec8ab005ccfd5ae7bebc1b8100"
+    },
+    {
+      "path": "vector-authoring.json",
+      "size": 391,
+      "sha256": "724fdb6e62084d408772faa410012d3633d9f07fb0110af00d33e393d179345b"
+    },
+    {
+      "path": "vector-edited-authoring.json",
+      "size": 394,
+      "sha256": "7528f63ecc48ecb81db34a1ba887b8fb696b1b9bc80a7e6f8e3cdcac2657d483"
+    },
+    {
+      "path": "vector-edited.xcf",
+      "size": 3961,
+      "sha256": "27eccc6cc773cf8c45153bc6006d44e7053920c4f5f63772fd65aef3f32e9271"
+    },
+    {
+      "path": "vector.xcf",
+      "size": 4002,
+      "sha256": "b1e197dfcff2eaaff44ecd44577a98bf2c899b88d57cdbd1878abb958ec2ef43"
+    }
+  ]
+}

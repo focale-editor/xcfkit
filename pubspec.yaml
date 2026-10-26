@@ -1,0 +1,27 @@
+name: xcfkit
+description: A pure Dart reader and writer for layered GIMP XCF documents, pixels, masks, and metadata.
+version: 0.1.0
+homepage: https://github.com/focale-editor
+
+screenshots:
+  - description: 'A layered GIMP XCF document.'
+    path: screenshots/overview.png
+
+topics:
+  - gimp
+  - xcf
+  - image-processing
+  - codec
+  - file-format
+
+environment:
+  sdk: '>=3.13.0 <4.0.0'
+
+dependencies:
+  xml: ^7.1.0
+  zcodec: ^0.2.5
+
+dev_dependencies:
+  crypto: ^3.0.8
+  lints: ^6.1.0
+  test: ^1.32.0

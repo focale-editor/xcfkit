@@ -1,0 +1,740 @@
+[
+  {
+    "file": "curves-edited.xcf",
+    "ok": true,
+    "width": 96,
+    "height": 64,
+    "precision": 150,
+    "paths": [],
+    "floating": null,
+    "layers": [
+      {
+        "name": "Pixels",
+        "path": [
+          0
+        ],
+        "tattoo": 2,
+        "x": 0,
+        "y": 0,
+        "opacity": 100.0,
+        "visible": true,
+        "mode": 28,
+        "group": false,
+        "effects": [
+          {
+            "name": "Editable curves",
+            "operation": "gimp:curves",
+            "visible": true,
+            "opacity": 1.0,
+            "mode": 62,
+            "parameters": {
+              "trc": 2,
+              "channel": 0
+            },
+            "curve": {
+              "points": [
+                [
+                  0.0,
+                  0.0
+                ],
+                [
+                  0.25,
+                  0.6
+                ],
+                [
+                  0.75,
+                  0.8
+                ],
+                [
+                  1.0,
+                  1.0
+                ]
+              ],
+              "types": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "samples": null
+            }
+          }
+        ],
+        "raster": {
+          "width": 96,
+          "height": 64,
+          "bpp": 4,
+          "sha256": "e48f40dcdd54f7d7fb8eba049e30dda161c039eaaf41e86f1751c2355e74e1db"
+        }
+      }
+    ],
+    "channels": [],
+    "selection": {
+      "width": 96,
+      "height": 64,
+      "bpp": 1,
+      "sha256": "fd9243e1ba57263ed469c3bdbd7ade6ec5254e7ed924a9f5737fa44749933cc0"
+    },
+    "composite_sha256": "625cb7ceb1a50c9d8e0f7ee80d45ad825916a68f2070be62d3fc200f8d19bece",
+    "document_metadata": {
+      "guides": [],
+      "sample_points": [],
+      "resolution": [
+        true,
+        300.0,
+        300.0
+      ],
+      "unit": {
+        "name": "inches",
+        "factor": 1.0,
+        "digits": 2,
+        "symbol": "''",
+        "abbreviation": "in"
+      }
+    },
+    "equal_to_original": true
+  },
+  {
+    "file": "curves.xcf",
+    "ok": true,
+    "width": 96,
+    "height": 64,
+    "precision": 150,
+    "paths": [],
+    "floating": null,
+    "layers": [
+      {
+        "name": "Pixels",
+        "path": [
+          0
+        ],
+        "tattoo": 2,
+        "x": 0,
+        "y": 0,
+        "opacity": 100.0,
+        "visible": true,
+        "mode": 28,
+        "group": false,
+        "effects": [
+          {
+            "name": "Editable curves",
+            "operation": "gimp:curves",
+            "visible": true,
+            "opacity": 1.0,
+            "mode": 62,
+            "parameters": {
+              "trc": 2,
+              "channel": 0
+            },
+            "curve": {
+              "points": [
+                [
+                  0.0,
+                  0.0
+                ],
+                [
+                  0.25,
+                  0.4
+                ],
+                [
+                  0.75,
+                  0.6
+                ],
+                [
+                  1.0,
+                  1.0
+                ]
+              ],
+              "types": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "samples": null
+            }
+          }
+        ],
+        "raster": {
+          "width": 96,
+          "height": 64,
+          "bpp": 4,
+          "sha256": "e48f40dcdd54f7d7fb8eba049e30dda161c039eaaf41e86f1751c2355e74e1db"
+        }
+      }
+    ],
+    "channels": [],
+    "selection": {
+      "width": 96,
+      "height": 64,
+      "bpp": 1,
+      "sha256": "fd9243e1ba57263ed469c3bdbd7ade6ec5254e7ed924a9f5737fa44749933cc0"
+    },
+    "composite_sha256": "2e78aeb91094e09ff69583ec6027c4a53a1b6f919cbcfb0ecb33b3850427d207",
+    "document_metadata": {
+      "guides": [],
+      "sample_points": [],
+      "resolution": [
+        true,
+        300.0,
+        300.0
+      ],
+      "unit": {
+        "name": "inches",
+        "factor": 1.0,
+        "digits": 2,
+        "symbol": "''",
+        "abbreviation": "in"
+      }
+    },
+    "equal_to_original": true
+  },
+  {
+    "file": "document-metadata.xcf",
+    "ok": true,
+    "width": 96,
+    "height": 64,
+    "precision": 150,
+    "paths": [],
+    "floating": null,
+    "layers": [
+      {
+        "name": "Pixels",
+        "path": [
+          0
+        ],
+        "tattoo": 2,
+        "x": 0,
+        "y": 0,
+        "opacity": 100.0,
+        "visible": true,
+        "mode": 28,
+        "group": false,
+        "effects": [],
+        "raster": {
+          "width": 96,
+          "height": 64,
+          "bpp": 4,
+          "sha256": "e48f40dcdd54f7d7fb8eba049e30dda161c039eaaf41e86f1751c2355e74e1db"
+        }
+      }
+    ],
+    "channels": [],
+    "selection": {
+      "width": 96,
+      "height": 64,
+      "bpp": 1,
+      "sha256": "fd9243e1ba57263ed469c3bdbd7ade6ec5254e7ed924a9f5737fa44749933cc0"
+    },
+    "composite_sha256": "e48f40dcdd54f7d7fb8eba049e30dda161c039eaaf41e86f1751c2355e74e1db",
+    "document_metadata": {
+      "guides": [
+        {
+          "position": 40,
+          "orientation": 1
+        },
+        {
+          "position": -5,
+          "orientation": 0
+        }
+      ],
+      "sample_points": [
+        [
+          12,
+          34
+        ],
+        [
+          90,
+          60
+        ]
+      ],
+      "resolution": [
+        true,
+        144.0,
+        288.0
+      ],
+      "unit": {
+        "name": "kit units",
+        "factor": 7.5,
+        "digits": 3,
+        "symbol": "ku",
+        "abbreviation": "kit"
+      }
+    },
+    "equal_to_original": true
+  },
+  {
+    "file": "document-metadata.xcf.bz2",
+    "ok": true,
+    "width": 96,
+    "height": 64,
+    "precision": 150,
+    "paths": [],
+    "floating": null,
+    "layers": [
+      {
+        "name": "Pixels",
+        "path": [
+          0
+        ],
+        "tattoo": 2,
+        "x": 0,
+        "y": 0,
+        "opacity": 100.0,
+        "visible": true,
+        "mode": 28,
+        "group": false,
+        "effects": [],
+        "raster": {
+          "width": 96,
+          "height": 64,
+          "bpp": 4,
+          "sha256": "e48f40dcdd54f7d7fb8eba049e30dda161c039eaaf41e86f1751c2355e74e1db"
+        }
+      }
+    ],
+    "channels": [],
+    "selection": {
+      "width": 96,
+      "height": 64,
+      "bpp": 1,
+      "sha256": "fd9243e1ba57263ed469c3bdbd7ade6ec5254e7ed924a9f5737fa44749933cc0"
+    },
+    "composite_sha256": "e48f40dcdd54f7d7fb8eba049e30dda161c039eaaf41e86f1751c2355e74e1db",
+    "document_metadata": {
+      "guides": [
+        {
+          "position": 40,
+          "orientation": 1
+        },
+        {
+          "position": -5,
+          "orientation": 0
+        }
+      ],
+      "sample_points": [
+        [
+          12,
+          34
+        ],
+        [
+          90,
+          60
+        ]
+      ],
+      "resolution": [
+        true,
+        144.0,
+        288.0
+      ],
+      "unit": {
+        "name": "kit units",
+        "factor": 7.5,
+        "digits": 3,
+        "symbol": "ku",
+        "abbreviation": "kit"
+      }
+    },
+    "equal_to_original": true
+  },
+  {
+    "file": "document-metadata.xcf.gz",
+    "ok": true,
+    "width": 96,
+    "height": 64,
+    "precision": 150,
+    "paths": [],
+    "floating": null,
+    "layers": [
+      {
+        "name": "Pixels",
+        "path": [
+          0
+        ],
+        "tattoo": 2,
+        "x": 0,
+        "y": 0,
+        "opacity": 100.0,
+        "visible": true,
+        "mode": 28,
+        "group": false,
+        "effects": [],
+        "raster": {
+          "width": 96,
+          "height": 64,
+          "bpp": 4,
+          "sha256": "e48f40dcdd54f7d7fb8eba049e30dda161c039eaaf41e86f1751c2355e74e1db"
+        }
+      }
+    ],
+    "channels": [],
+    "selection": {
+      "width": 96,
+      "height": 64,
+      "bpp": 1,
+      "sha256": "fd9243e1ba57263ed469c3bdbd7ade6ec5254e7ed924a9f5737fa44749933cc0"
+    },
+    "composite_sha256": "e48f40dcdd54f7d7fb8eba049e30dda161c039eaaf41e86f1751c2355e74e1db",
+    "document_metadata": {
+      "guides": [
+        {
+          "position": 40,
+          "orientation": 1
+        },
+        {
+          "position": -5,
+          "orientation": 0
+        }
+      ],
+      "sample_points": [
+        [
+          12,
+          34
+        ],
+        [
+          90,
+          60
+        ]
+      ],
+      "resolution": [
+        true,
+        144.0,
+        288.0
+      ],
+      "unit": {
+        "name": "kit units",
+        "factor": 7.5,
+        "digits": 3,
+        "symbol": "ku",
+        "abbreviation": "kit"
+      }
+    },
+    "equal_to_original": true
+  },
+  {
+    "file": "document-metadata.xcf.xz",
+    "ok": true,
+    "width": 96,
+    "height": 64,
+    "precision": 150,
+    "paths": [],
+    "floating": null,
+    "layers": [
+      {
+        "name": "Pixels",
+        "path": [
+          0
+        ],
+        "tattoo": 2,
+        "x": 0,
+        "y": 0,
+        "opacity": 100.0,
+        "visible": true,
+        "mode": 28,
+        "group": false,
+        "effects": [],
+        "raster": {
+          "width": 96,
+          "height": 64,
+          "bpp": 4,
+          "sha256": "e48f40dcdd54f7d7fb8eba049e30dda161c039eaaf41e86f1751c2355e74e1db"
+        }
+      }
+    ],
+    "channels": [],
+    "selection": {
+      "width": 96,
+      "height": 64,
+      "bpp": 1,
+      "sha256": "fd9243e1ba57263ed469c3bdbd7ade6ec5254e7ed924a9f5737fa44749933cc0"
+    },
+    "composite_sha256": "e48f40dcdd54f7d7fb8eba049e30dda161c039eaaf41e86f1751c2355e74e1db",
+    "document_metadata": {
+      "guides": [
+        {
+          "position": 40,
+          "orientation": 1
+        },
+        {
+          "position": -5,
+          "orientation": 0
+        }
+      ],
+      "sample_points": [
+        [
+          12,
+          34
+        ],
+        [
+          90,
+          60
+        ]
+      ],
+      "resolution": [
+        true,
+        144.0,
+        288.0
+      ],
+      "unit": {
+        "name": "kit units",
+        "factor": 7.5,
+        "digits": 3,
+        "symbol": "ku",
+        "abbreviation": "kit"
+      }
+    },
+    "equal_to_original": true
+  },
+  {
+    "file": "vector-edited.xcf",
+    "ok": true,
+    "width": 96,
+    "height": 64,
+    "precision": 150,
+    "paths": [
+      {
+        "name": "Vector triangle",
+        "visible": false,
+        "strokes": [
+          {
+            "type": 0,
+            "points": [
+              10.0,
+              10.0,
+              10.0,
+              10.0,
+              10.0,
+              10.0,
+              80.0,
+              10.0,
+              80.0,
+              10.0,
+              80.0,
+              10.0,
+              45.0,
+              52.0,
+              45.0,
+              52.0,
+              45.0,
+              52.0
+            ],
+            "closed": true
+          }
+        ]
+      }
+    ],
+    "floating": null,
+    "layers": [
+      {
+        "name": "Editable vector",
+        "path": [
+          0
+        ],
+        "tattoo": 4,
+        "x": 7,
+        "y": 7,
+        "opacity": 100.0,
+        "visible": true,
+        "mode": 28,
+        "group": false,
+        "effects": [],
+        "raster": {
+          "width": 75,
+          "height": 47,
+          "bpp": 4,
+          "sha256": "bcb6c876f0c053072dbb99c906784491b9081300fd38499c91fe45f4b691600a"
+        },
+        "vector": {
+          "path_tattoo": 314,
+          "fill": true,
+          "stroke": true,
+          "width": 4.5,
+          "cap": 1,
+          "join": 2,
+          "miter": 3.25,
+          "dashes": [
+            true,
+            [
+              2.0,
+              1.0,
+              4.0,
+              1.5
+            ]
+          ],
+          "fill_color": [
+            0.059511445462703705,
+            0.41254299879074097,
+            0.03189614415168762,
+            1.0
+          ],
+          "stroke_color": [
+            0.6938729286193848,
+            0.1119326651096344,
+            0.014443904161453247,
+            1.0
+          ],
+          "fill_pattern": null,
+          "fill_color_bytes": {
+            "encoding": "R'G'B'A float",
+            "pixel": "988a8a3eb0ac2c3fdec8483e0000803f"
+          },
+          "stroke_color_bytes": {
+            "encoding": "R'G'B'A float",
+            "pixel": "e3d9593fc9bcbc3e9680003e0000803f"
+          }
+        }
+      }
+    ],
+    "channels": [],
+    "selection": {
+      "width": 96,
+      "height": 64,
+      "bpp": 1,
+      "sha256": "fd9243e1ba57263ed469c3bdbd7ade6ec5254e7ed924a9f5737fa44749933cc0"
+    },
+    "composite_sha256": "70751945ab5648c886b5a8fc46438d6e1d53e068d4ec84997d9a846e4cc44fb4",
+    "document_metadata": {
+      "guides": [],
+      "sample_points": [],
+      "resolution": [
+        true,
+        300.0,
+        300.0
+      ],
+      "unit": {
+        "name": "inches",
+        "factor": 1.0,
+        "digits": 2,
+        "symbol": "''",
+        "abbreviation": "in"
+      }
+    },
+    "equal_to_original": true
+  },
+  {
+    "file": "vector.xcf",
+    "ok": true,
+    "width": 96,
+    "height": 64,
+    "precision": 150,
+    "paths": [
+      {
+        "name": "Vector triangle",
+        "visible": false,
+        "strokes": [
+          {
+            "type": 0,
+            "points": [
+              10.0,
+              10.0,
+              10.0,
+              10.0,
+              10.0,
+              10.0,
+              80.0,
+              10.0,
+              80.0,
+              10.0,
+              80.0,
+              10.0,
+              45.0,
+              52.0,
+              45.0,
+              52.0,
+              45.0,
+              52.0
+            ],
+            "closed": true
+          }
+        ]
+      }
+    ],
+    "floating": null,
+    "layers": [
+      {
+        "name": "Editable vector",
+        "path": [
+          0
+        ],
+        "tattoo": 4,
+        "x": 8,
+        "y": 8,
+        "opacity": 100.0,
+        "visible": true,
+        "mode": 28,
+        "group": false,
+        "effects": [],
+        "raster": {
+          "width": 73,
+          "height": 45,
+          "bpp": 4,
+          "sha256": "8e6eb2239414783c47addad1b7a82baa444c32751e58661641c9662a7f24424d"
+        },
+        "vector": {
+          "path_tattoo": 314,
+          "fill": true,
+          "stroke": true,
+          "width": 2.5,
+          "cap": 1,
+          "join": 2,
+          "miter": 3.25,
+          "dashes": [
+            true,
+            [
+              2.0,
+              1.0,
+              4.0,
+              1.5
+            ]
+          ],
+          "fill_color": [
+            0.016807440668344498,
+            0.21586094796657562,
+            0.6038283109664917,
+            1.0
+          ],
+          "stroke_color": [
+            0.6938729286193848,
+            0.1119326651096344,
+            0.014443904161453247,
+            1.0
+          ],
+          "fill_pattern": null,
+          "fill_color_bytes": {
+            "encoding": "R'G'B'A float",
+            "pixel": "a28c0c3e8780003fd4cc4c3f0000803f"
+          },
+          "stroke_color_bytes": {
+            "encoding": "R'G'B'A float",
+            "pixel": "e3d9593fc9bcbc3e9680003e0000803f"
+          }
+        }
+      }
+    ],
+    "channels": [],
+    "selection": {
+      "width": 96,
+      "height": 64,
+      "bpp": 1,
+      "sha256": "fd9243e1ba57263ed469c3bdbd7ade6ec5254e7ed924a9f5737fa44749933cc0"
+    },
+    "composite_sha256": "8267d986feec2f94fff2b23dbc62eb00d7144e75666609cef24f13d05f1ba089",
+    "document_metadata": {
+      "guides": [],
+      "sample_points": [],
+      "resolution": [
+        true,
+        300.0,
+        300.0
+      ],
+      "unit": {
+        "name": "inches",
+        "factor": 1.0,
+        "digits": 2,
+        "symbol": "''",
+        "abbreviation": "in"
+      }
+    },
+    "equal_to_original": true
+  }
+]

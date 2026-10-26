@@ -1,0 +1,38 @@
+{
+  "gimp_version": "3.3.1",
+  "commit": "a39a8a7e824fb11810baeeebd6c4edd03865768f",
+  "job_url": "https://gitlab.gnome.org/GNOME/gimp/-/jobs/7242523",
+  "appimage_sha256": "af89282e2e11d1fde628eb0b87ad3a28d914a76d85c69ed9b76ef124fc89bb90",
+  "files": [
+    {
+      "path": "edits-reference.json",
+      "bytes": 1251,
+      "sha256": "7bfbb6d54ba77543b96281cefc866023b63e090197425bee24e38cb4506148fb"
+    },
+    {
+      "path": "effect-gradient-edited.json",
+      "bytes": 916,
+      "sha256": "f58f2e8a405d212a48b6bfc667c8f110a3894621bb60e13a54f5e54bf0dbe094"
+    },
+    {
+      "path": "effect-gradient-edited.xcf",
+      "bytes": 2682,
+      "sha256": "37ee6fe34cfe43bffe4f0bdc59b796a68d3e1e9bbc157d0cd9be5723548fa952"
+    },
+    {
+      "path": "effect-gradient.json",
+      "bytes": 917,
+      "sha256": "767eb7097396808a9f34efaf532746e21f94a9499fd30133c71bd5cbc7302bd8"
+    },
+    {
+      "path": "effect-gradient.xcf",
+      "bytes": 2682,
+      "sha256": "7a902a279bde8a0fe1ee677128e3f74e552d819f45e587c8b53bae02fd94710a"
+    },
+    {
+      "path": "reference.json",
+      "bytes": 2492,
+      "sha256": "6b6819102aa4ec2f5f56f229cc0f839f1342e6049b438382e0d585ca92ede7b5"
+    }
+  ]
+}

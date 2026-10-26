@@ -1,0 +1,587 @@
+[
+  {
+    "file": "compat-paths.xcf",
+    "ok": true,
+    "width": 96,
+    "height": 64,
+    "precision": 150,
+    "paths": [
+      {
+        "name": "Compatibility strokes edited",
+        "visible": false,
+        "strokes": [
+          {
+            "type": 0,
+            "points": [
+              4.0,
+              4.0,
+              7.0,
+              7.0,
+              10.0,
+              10.0,
+              23.0,
+              24.0,
+              28.0,
+              28.0,
+              31.0,
+              31.0
+            ],
+            "closed": true
+          },
+          {
+            "type": 0,
+            "points": [
+              6.0,
+              6.0,
+              9.0,
+              9.0,
+              12.0,
+              12.0,
+              33.0,
+              34.0,
+              38.0,
+              38.0,
+              41.0,
+              41.0
+            ],
+            "closed": true
+          },
+          {
+            "type": 0,
+            "points": [
+              48.0,
+              48.0,
+              48.0,
+              48.0,
+              51.0,
+              51.0,
+              53.0,
+              54.0,
+              58.0,
+              58.0,
+              61.0,
+              61.0
+            ],
+            "closed": false
+          }
+        ]
+      }
+    ],
+    "floating": null,
+    "layers": [
+      {
+        "name": "Pixels",
+        "path": [
+          0
+        ],
+        "tattoo": 2,
+        "x": 0,
+        "y": 0,
+        "opacity": 100.0,
+        "visible": true,
+        "mode": 28,
+        "group": false,
+        "effects": [],
+        "raster": {
+          "width": 96,
+          "height": 64,
+          "bpp": 4,
+          "sha256": "e48f40dcdd54f7d7fb8eba049e30dda161c039eaaf41e86f1751c2355e74e1db"
+        }
+      }
+    ],
+    "channels": [],
+    "selection": {
+      "width": 96,
+      "height": 64,
+      "bpp": 1,
+      "sha256": "fd9243e1ba57263ed469c3bdbd7ade6ec5254e7ed924a9f5737fa44749933cc0"
+    },
+    "composite_sha256": "e48f40dcdd54f7d7fb8eba049e30dda161c039eaaf41e86f1751c2355e74e1db",
+    "equal_to_original": true
+  },
+  {
+    "file": "effect-color.xcf",
+    "ok": true,
+    "width": 96,
+    "height": 64,
+    "precision": 150,
+    "paths": [],
+    "floating": null,
+    "layers": [
+      {
+        "name": "Pixels",
+        "path": [
+          0
+        ],
+        "tattoo": 2,
+        "x": 0,
+        "y": 0,
+        "opacity": 100.0,
+        "visible": true,
+        "mode": 28,
+        "group": false,
+        "effects": [
+          {
+            "name": "Colored overlay",
+            "operation": "gegl:color-overlay",
+            "visible": true,
+            "opacity": 1.0,
+            "mode": 62,
+            "parameters": {
+              "value": {
+                "rgba": [
+                  1.0,
+                  0.0,
+                  1.0,
+                  0.501960813999176
+                ]
+              },
+              "srgb": false
+            }
+          }
+        ],
+        "raster": {
+          "width": 96,
+          "height": 64,
+          "bpp": 4,
+          "sha256": "e48f40dcdd54f7d7fb8eba049e30dda161c039eaaf41e86f1751c2355e74e1db"
+        }
+      }
+    ],
+    "channels": [],
+    "selection": {
+      "width": 96,
+      "height": 64,
+      "bpp": 1,
+      "sha256": "fd9243e1ba57263ed469c3bdbd7ade6ec5254e7ed924a9f5737fa44749933cc0"
+    },
+    "composite_sha256": "4d42ff61170e2f38e835d45ea93820a39610d36afdaaf6e6acea4a9c003e8fa9",
+    "equal_to_original": true
+  },
+  {
+    "file": "effect.xcf",
+    "ok": true,
+    "width": 67,
+    "height": 3,
+    "precision": 150,
+    "paths": [],
+    "floating": null,
+    "layers": [
+      {
+        "name": "Filtered pixels",
+        "path": [
+          0
+        ],
+        "tattoo": 2,
+        "x": 0,
+        "y": 0,
+        "opacity": 100.0,
+        "visible": true,
+        "mode": 28,
+        "group": false,
+        "effects": [
+          {
+            "name": "Brightness",
+            "operation": "gegl:brightness-contrast",
+            "visible": true,
+            "opacity": 1.0,
+            "mode": 62,
+            "parameters": {
+              "contrast": 1.0,
+              "brightness": 0.44999998807907104
+            }
+          }
+        ],
+        "raster": {
+          "width": 67,
+          "height": 3,
+          "bpp": 4,
+          "sha256": "302fd199e4ba303865060fe92f3002ad0bbf43ccc297305cb907edea0bccd5bd"
+        }
+      }
+    ],
+    "channels": [],
+    "selection": {
+      "width": 67,
+      "height": 3,
+      "bpp": 1,
+      "sha256": "ab3df617aaa3140f04dc53f65b5446f34a6b2bdbb1f7b78db8db4d067ba14db9"
+    },
+    "composite_sha256": "82b1a72d76874e510cdb6a7c0d9dfa3ea7c37246a3c3b895914170ce8ee20160",
+    "equal_to_original": true
+  },
+  {
+    "file": "legacy-path.xcf",
+    "ok": true,
+    "width": 96,
+    "height": 48,
+    "precision": 150,
+    "paths": [
+      {
+        "name": "Legacy triangle edited",
+        "visible": true,
+        "strokes": [
+          {
+            "type": 0,
+            "points": [
+              3.0,
+              2.0,
+              3.0,
+              2.0,
+              3.0,
+              2.0,
+              63.0,
+              2.0,
+              63.0,
+              2.0,
+              63.0,
+              2.0,
+              33.0,
+              32.0,
+              33.0,
+              32.0,
+              33.0,
+              32.0
+            ],
+            "closed": true
+          }
+        ]
+      }
+    ],
+    "floating": null,
+    "layers": [
+      {
+        "name": "Background",
+        "path": [
+          0
+        ],
+        "tattoo": 2,
+        "x": 0,
+        "y": 0,
+        "opacity": 100.0,
+        "visible": true,
+        "mode": 28,
+        "group": false,
+        "effects": [],
+        "raster": {
+          "width": 96,
+          "height": 48,
+          "bpp": 4,
+          "sha256": "26b59795c15cc509540ccab9a5f699c9927dadb251c9cf0ac4b71a4c6138c419"
+        }
+      }
+    ],
+    "channels": [],
+    "selection": {
+      "width": 96,
+      "height": 48,
+      "bpp": 1,
+      "sha256": "606f558e014930f9c1669f03c71c28945c4631568e39cd308c6c7f4077c7bfb9"
+    },
+    "composite_sha256": "26b59795c15cc509540ccab9a5f699c9927dadb251c9cf0ac4b71a4c6138c419",
+    "equal_to_original": true
+  },
+  {
+    "file": "modern-path.xcf",
+    "ok": true,
+    "width": 67,
+    "height": 3,
+    "precision": 150,
+    "paths": [
+      {
+        "name": "Triangle edited",
+        "visible": false,
+        "strokes": [
+          {
+            "type": 0,
+            "points": [
+              3.0,
+              2.0,
+              3.0,
+              2.0,
+              3.0,
+              2.0,
+              63.0,
+              2.0,
+              63.0,
+              2.0,
+              63.0,
+              2.0,
+              33.0,
+              5.0,
+              33.0,
+              5.0,
+              33.0,
+              5.0
+            ],
+            "closed": true
+          }
+        ]
+      }
+    ],
+    "floating": null,
+    "layers": [
+      {
+        "name": "Path pixels",
+        "path": [
+          0
+        ],
+        "tattoo": 2,
+        "x": 0,
+        "y": 0,
+        "opacity": 100.0,
+        "visible": true,
+        "mode": 28,
+        "group": false,
+        "effects": [],
+        "raster": {
+          "width": 67,
+          "height": 3,
+          "bpp": 4,
+          "sha256": "302fd199e4ba303865060fe92f3002ad0bbf43ccc297305cb907edea0bccd5bd"
+        }
+      }
+    ],
+    "channels": [],
+    "selection": {
+      "width": 67,
+      "height": 3,
+      "bpp": 1,
+      "sha256": "ab3df617aaa3140f04dc53f65b5446f34a6b2bdbb1f7b78db8db4d067ba14db9"
+    },
+    "composite_sha256": "302fd199e4ba303865060fe92f3002ad0bbf43ccc297305cb907edea0bccd5bd",
+    "equal_to_original": true
+  },
+  {
+    "file": "text-markup.xcf",
+    "ok": true,
+    "width": 160,
+    "height": 100,
+    "precision": 150,
+    "paths": [],
+    "floating": null,
+    "layers": [
+      {
+        "name": "Styled text",
+        "path": [
+          0
+        ],
+        "tattoo": 2,
+        "x": 0,
+        "y": 0,
+        "opacity": 100.0,
+        "visible": true,
+        "mode": 28,
+        "group": false,
+        "effects": [],
+        "raster": {
+          "width": 212,
+          "height": 97,
+          "bpp": 4,
+          "sha256": "6f8ae132f8c21d36448dc73a2992355e355bdac7dd520117a2f5b8d5ddcff35e"
+        },
+        "text": {
+          "text": null,
+          "markup": "<markup>\u00c9t\u00e9 <span font=\"Nimbus Roman Bold\" foreground=\"#12a05f\" size=\"18432\" rise=\"1024\" letter_spacing=\"512\" font_features=\"kern=0\"><b><span foreground=\"#cc2244\">ffi \ud83d\ude00</span></b></span>\n<u>\u0633\u0644\u0627\u0645</u></markup>",
+          "font": "Nimbus Sans Regular",
+          "size": 18.0,
+          "options": {
+            "antialias": true,
+            "hint": 2,
+            "kerning": false,
+            "language": "C",
+            "direction": 0,
+            "justification": 0,
+            "indent": 0.0,
+            "line_spacing": 0.0,
+            "letter_spacing": 0.0,
+            "color": [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ],
+            "outline": 0,
+            "outline_width": 4.0,
+            "outline_direction": 0,
+            "outline_antialias": true,
+            "outline_cap": 0,
+            "outline_join": 0,
+            "outline_miter": 2.0,
+            "outline_dash_offset": 0.0,
+            "outline_color": [
+              0.2158597856760025,
+              0.2158597856760025,
+              0.2158597856760025,
+              1.0
+            ]
+          }
+        }
+      }
+    ],
+    "channels": [],
+    "selection": {
+      "width": 160,
+      "height": 100,
+      "bpp": 1,
+      "sha256": "f85f2c34eb2843d2aa5951ee6e8e76985655b2e3ae2cbdd76bdfd654ecf19997"
+    },
+    "composite_sha256": "dd0cccfb52608a5042f05ed531c8203520f1499f423ea64bb5577d153d0c10b6",
+    "equal_to_original": true
+  },
+  {
+    "file": "text-options.xcf",
+    "ok": true,
+    "width": 160,
+    "height": 100,
+    "precision": 150,
+    "paths": [],
+    "floating": null,
+    "layers": [
+      {
+        "name": "Text options",
+        "path": [
+          0
+        ],
+        "tattoo": 2,
+        "x": 0,
+        "y": 0,
+        "opacity": 100.0,
+        "visible": true,
+        "mode": 28,
+        "group": false,
+        "effects": [],
+        "raster": {
+          "width": 150,
+          "height": 90,
+          "bpp": 4,
+          "sha256": "78ebfe462933c24ed321ad122135d8abc1e860bfcf0e43aa7b5ae2224c8a94ce"
+        },
+        "text": {
+          "text": "\u00c9t\u00e9 et hiver\nDeux lignes",
+          "markup": null,
+          "font": "Nimbus Roman Italic",
+          "size": 18.0,
+          "options": {
+            "antialias": false,
+            "hint": 3,
+            "kerning": true,
+            "language": "fr",
+            "direction": 1,
+            "justification": 1,
+            "indent": -1.0,
+            "line_spacing": 5.0,
+            "letter_spacing": 0.75,
+            "color": [
+              0.10000000149011612,
+              0.4000000059604645,
+              0.800000011920929,
+              1.0
+            ],
+            "outline": 2,
+            "outline_width": 1.5,
+            "outline_direction": 0,
+            "outline_antialias": false,
+            "outline_cap": 1,
+            "outline_join": 1,
+            "outline_miter": 3.0,
+            "outline_dash_offset": 1.0,
+            "outline_color": [
+              0.800000011920929,
+              0.20000000298023224,
+              0.10000000149011612,
+              1.0
+            ]
+          }
+        }
+      }
+    ],
+    "channels": [],
+    "selection": {
+      "width": 160,
+      "height": 100,
+      "bpp": 1,
+      "sha256": "f85f2c34eb2843d2aa5951ee6e8e76985655b2e3ae2cbdd76bdfd654ecf19997"
+    },
+    "composite_sha256": "9fe8f226cacf4671d42bf4d6ed975c0b8a54139686452158a75bd23f8f9db0e7",
+    "equal_to_original": true
+  },
+  {
+    "file": "text.xcf",
+    "ok": true,
+    "width": 96,
+    "height": 48,
+    "precision": 150,
+    "paths": [],
+    "floating": null,
+    "layers": [
+      {
+        "name": "Editable text",
+        "path": [
+          0
+        ],
+        "tattoo": 2,
+        "x": 3,
+        "y": 5,
+        "opacity": 100.0,
+        "visible": true,
+        "mode": 28,
+        "group": false,
+        "effects": [],
+        "raster": {
+          "width": 62,
+          "height": 26,
+          "bpp": 4,
+          "sha256": "8acbc031e07fb0a06a7f45bdb28d09507d64ad32099ab13ba2e034d110ddaa15"
+        },
+        "text": {
+          "text": "\u00c9t\u00e9 \"X\"",
+          "markup": null,
+          "font": "Nimbus Sans Regular",
+          "size": 20.0,
+          "options": {
+            "antialias": true,
+            "hint": 2,
+            "kerning": false,
+            "language": "C",
+            "direction": 0,
+            "justification": 0,
+            "indent": 0.0,
+            "line_spacing": 0.0,
+            "letter_spacing": 0.0,
+            "color": [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ],
+            "outline": 0,
+            "outline_width": 4.0,
+            "outline_direction": 0,
+            "outline_antialias": true,
+            "outline_cap": 0,
+            "outline_join": 0,
+            "outline_miter": 2.0,
+            "outline_dash_offset": 0.0,
+            "outline_color": [
+              0.2158597856760025,
+              0.2158597856760025,
+              0.2158597856760025,
+              1.0
+            ]
+          }
+        }
+      }
+    ],
+    "channels": [],
+    "selection": {
+      "width": 96,
+      "height": 48,
+      "bpp": 1,
+      "sha256": "606f558e014930f9c1669f03c71c28945c4631568e39cd308c6c7f4077c7bfb9"
+    },
+    "composite_sha256": "89e736a358b6b089c4947778d07659f24cfd21be74b4dedb3b00d67024216d55",
+    "equal_to_original": true
+  }
+]
